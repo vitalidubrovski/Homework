@@ -7,11 +7,13 @@ PrintArray();
 void FillArray()
 {
     Random rand = new Random();
+    double rMin = -20;
+    double rMax = 20;
     for (int i = 0; i < rows; i++)
     {
         for (int j = 0; j < colums; j++)
         {
-            array[i, j] = rand.NextDouble() * 5;
+            array[i, j] = rand.NextDouble() * (rMax+1 - rMin) + rMin;
         }
     }
 }
