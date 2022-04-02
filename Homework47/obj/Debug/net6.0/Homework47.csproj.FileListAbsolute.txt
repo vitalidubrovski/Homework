@@ -1,0 +1,15 @@
+C:\Users\V\Desktop\Seminars_c#\Homework\Homework47\bin\Debug\net6.0\Homework47.exe
+C:\Users\V\Desktop\Seminars_c#\Homework\Homework47\bin\Debug\net6.0\Homework47.deps.json
+C:\Users\V\Desktop\Seminars_c#\Homework\Homework47\bin\Debug\net6.0\Homework47.runtimeconfig.json
+C:\Users\V\Desktop\Seminars_c#\Homework\Homework47\bin\Debug\net6.0\Homework47.dll
+C:\Users\V\Desktop\Seminars_c#\Homework\Homework47\bin\Debug\net6.0\Homework47.pdb
+C:\Users\V\Desktop\Seminars_c#\Homework\Homework47\obj\Debug\net6.0\Homework47.csproj.AssemblyReference.cache
+C:\Users\V\Desktop\Seminars_c#\Homework\Homework47\obj\Debug\net6.0\Homework47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V\Desktop\Seminars_c#\Homework\Homework47\obj\Debug\net6.0\Homework47.AssemblyInfoInputs.cache
+C:\Users\V\Desktop\Seminars_c#\Homework\Homework47\obj\Debug\net6.0\Homework47.AssemblyInfo.cs
+C:\Users\V\Desktop\Seminars_c#\Homework\Homework47\obj\Debug\net6.0\Homework47.csproj.CoreCompileInputs.cache
+C:\Users\V\Desktop\Seminars_c#\Homework\Homework47\obj\Debug\net6.0\Homework47.dll
+C:\Users\V\Desktop\Seminars_c#\Homework\Homework47\obj\Debug\net6.0\refint\Homework47.dll
+C:\Users\V\Desktop\Seminars_c#\Homework\Homework47\obj\Debug\net6.0\Homework47.pdb
+C:\Users\V\Desktop\Seminars_c#\Homework\Homework47\obj\Debug\net6.0\Homework47.genruntimeconfig.cache
+C:\Users\V\Desktop\Seminars_c#\Homework\Homework47\obj\Debug\net6.0\ref\Homework47.dll
