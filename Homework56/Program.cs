@@ -1,4 +1,4 @@
-﻿int rows = 2;
+﻿int rows = 4;
 int columns = 6;
 int[,] matrix = new int[rows, columns];
 
@@ -30,7 +30,7 @@ void PrintMatrix()
 }
 void SummDiffMatrix()
 {
-    int[] arraySumm = new int[columns]; // Массив для хранения суммы
+    int[] arraySumm = new int[rows]; // Массив для хранения суммы
     for (int i = 0; i < rows; i++)
     {
         int summ = 0;
@@ -39,15 +39,22 @@ void SummDiffMatrix()
             summ += matrix[i, j];
         }
         arraySumm[i] = summ;
+        Console.WriteLine(summ);
     }
-    int min = 0; // Индекс строки с минимальным значением суммы
-    for (int j = 0; j < columns; j++)
+    
+    int min = 0;
+    for(int k = 1; k < arraySumm.Length; k++)
     {
-        if (arraySumm[j] < arraySumm[min])
+        if(arraySumm[k] == arraySumm[min])
         {
-            min = j;
+            Console.WriteLine("Суммы равны");
+        }
+        if (arraySumm[k] < arraySumm[min])
+        {
+            min = k;
         }
     }
-    Console.WriteLine("Номер строки " + min);
+    Console.WriteLine("Номер строки с наименьшей суммой " +(min +1));
+
 
 }
