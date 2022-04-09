@@ -1,0 +1,15 @@
+C:\Users\V\Desktop\Seminars_c#\Homework\Homework64\obj\Debug\net6.0\Homework64.csproj.AssemblyReference.cache
+C:\Users\V\Desktop\Seminars_c#\Homework\Homework64\obj\Debug\net6.0\Homework64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V\Desktop\Seminars_c#\Homework\Homework64\obj\Debug\net6.0\Homework64.AssemblyInfoInputs.cache
+C:\Users\V\Desktop\Seminars_c#\Homework\Homework64\obj\Debug\net6.0\Homework64.AssemblyInfo.cs
+C:\Users\V\Desktop\Seminars_c#\Homework\Homework64\obj\Debug\net6.0\Homework64.csproj.CoreCompileInputs.cache
+C:\Users\V\Desktop\Seminars_c#\Homework\Homework64\bin\Debug\net6.0\Homework64.exe
+C:\Users\V\Desktop\Seminars_c#\Homework\Homework64\bin\Debug\net6.0\Homework64.deps.json
+C:\Users\V\Desktop\Seminars_c#\Homework\Homework64\bin\Debug\net6.0\Homework64.runtimeconfig.json
+C:\Users\V\Desktop\Seminars_c#\Homework\Homework64\bin\Debug\net6.0\Homework64.dll
+C:\Users\V\Desktop\Seminars_c#\Homework\Homework64\bin\Debug\net6.0\Homework64.pdb
+C:\Users\V\Desktop\Seminars_c#\Homework\Homework64\obj\Debug\net6.0\Homework64.dll
+C:\Users\V\Desktop\Seminars_c#\Homework\Homework64\obj\Debug\net6.0\refint\Homework64.dll
+C:\Users\V\Desktop\Seminars_c#\Homework\Homework64\obj\Debug\net6.0\Homework64.pdb
+C:\Users\V\Desktop\Seminars_c#\Homework\Homework64\obj\Debug\net6.0\Homework64.genruntimeconfig.cache
+C:\Users\V\Desktop\Seminars_c#\Homework\Homework64\obj\Debug\net6.0\ref\Homework64.dll
