@@ -1,4 +1,4 @@
-﻿int a = 4;
+﻿int a = 3;
 int b = 2;
 int Ack(int n, int m)
 {
